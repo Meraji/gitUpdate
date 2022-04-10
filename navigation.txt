@@ -8,3 +8,5 @@ Commit A
 Commit B
 
 Commit C
+
+Commit New CC
